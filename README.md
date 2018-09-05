@@ -1,6 +1,6 @@
 # react-scratch
 
-**Babel7 is out!**
+**Babel 7 is out!**
 
 This repository keeps all packages up to date with the latest version.
 
@@ -14,10 +14,10 @@ This repository keeps all packages up to date with the latest version.
 
 - react v16.4.2
 
-- webpack v4.17.1
+- webpack v4.17.2
 
-- babel 7
+- babel v7.0.0
 
 **Use older version of Babel**
 
-If you need babel of which version is earlier than 7.0. Check out [babel6 branch](https://github.com/yuqingc/react-scratch/tree/babel6).
+If you need babel of which version is earlier than 7.0, check out [babel6 branch](https://github.com/yuqingc/react-scratch/tree/babel6).
