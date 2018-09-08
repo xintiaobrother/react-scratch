@@ -12,7 +12,7 @@ This repository keeps all packages up to date with the latest version.
 
 **Primary packages**
 
-- react v16.4.2
+- react v16.5.0
 
 - webpack v4.17.2
 
