@@ -14,7 +14,7 @@ This repository keeps all packages up to date with the latest version.
 
 - react v16.5.0
 
-- webpack v4.17.2
+- webpack v4.18.0
 
 - babel v7.0.0
 
