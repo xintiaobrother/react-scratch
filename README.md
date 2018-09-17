@@ -12,11 +12,11 @@ This repository keeps all packages up to date with the latest version.
 
 **Primary packages**
 
-- react v16.5.0
+- react v16.5.1
 
-- webpack v4.18.0
+- webpack v4.19.0
 
-- babel v7.0.0
+- babel v7.0.1
 
 **Use older version of Babel**
 
